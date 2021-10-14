@@ -4,5 +4,6 @@ public class hello {
         System.out.println ("hello github!");
         System.out.println ("hello githubhub!");
         System.out.println ("this is master");
+        System.out.println ("pull test");
     }
 }
